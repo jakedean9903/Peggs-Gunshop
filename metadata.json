@@ -1,0 +1,9 @@
+{
+  "name": "Peggs Gun Shop",
+  "description": "A modern, responsive website for Peggs Gun Shop featuring a gallery, contact info, and AI-powered tools for trade-in analysis and custom gear design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
